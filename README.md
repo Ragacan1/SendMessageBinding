@@ -13,5 +13,5 @@ La app se llama SendMessageBinding.
 
 Las librerías externas usadas en el proyecto son las siguientes:
 
-- 
-- 
+- com.orhanobut:logger:2.2.0
+- com.github.jrvansuita:MaterialAbout:+
