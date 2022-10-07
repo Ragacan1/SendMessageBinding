@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="etMessageText"></string>
+    <string name="etMessageHint">Escribe un mensaje...</string>
+    <string name="btSendText">Enviar</string>
+    <string name="etUserHint">Introduce tu nombre...</string>
+    <string name="tvUser">El usuario</string>
+    <string name="tvMessageContent">Ha escrito el mensaje:</string>
+    <string name="imgMessage">Imagen que contiene dos mensajes</string>
+    <string name="aboutUs" translatable="false">Sobre mí</string>
+    <string name="subtituloAboutUs" translatable="false">"Mobile Developer"</string>
+    <string name="briefAboutUs" translatable="false">BINDING</string>
+    <string name="playStoreLinkAboutUs" translatable="false">8002078663318221363</string>
+    <string name="gitHubLinkAboutUs" translatable="false">https://github.com/Ragacan1</string>
+    <string name="facebookLinkAboutUs" translatable="false">https://www.facebook.com/AndroidOfficial/</string>
+
+
+</resources>
