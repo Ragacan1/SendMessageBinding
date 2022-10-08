@@ -1,6 +1,7 @@
 # Bienvenido al repositorio SendMessageBinding
 
-La app se llama SendMessageBinding. 
+Este pruecto android consiste en el desarrolo de una aplicación que permite enviar un mensaje junto al remitente. 
+Al pulsar enviar se mostrarán los datos en un activity diferente.
 
 # SendMessageBinding
 
@@ -22,9 +23,10 @@ La app se llama SendMessageBinding.
 ![aboutUs](https://user-images.githubusercontent.com/93000360/194531183-c5e1a722-717a-4f3a-ba54-558f5db06f5d.PNG)
 
 
-## Librerías
+## Librerías Externas
 
-Las librerías externas usadas en el proyecto son las siguientes:
 
-- com.orhanobut:logger:2.2.0
-- com.github.jrvansuita:MaterialAbout:+
+dependencies {
+	implementation 'com.github.jrvansuita:MaterialAbout:+'
+	implementation 'com.orhanobut:logger:2.2.0'
+}
