@@ -25,10 +25,10 @@ Al pulsar enviar se mostrarán los datos en un activity diferente.
 
 ## Librerías Externas
 
- ` dependencies {
+ `dependencies {
  
-	implementation 'com.github.jrvansuita:MaterialAbout:+'
+	implementation com.github.jrvansuita:MaterialAbout:+
 	
-	implementation 'com.orhanobut:logger:2.2.0'
+	implementation com.orhanobut:logger:2.2.0
 	
- } `
+ }`
